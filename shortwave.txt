@@ -59,4 +59,4 @@ v       http://vimeo.com/videos/search:%s                   Vimeo Search
 ip      http://shortwaveapp.com/utils/ip.php                IP Address
 whois   http://www.whois-search.com/whois/%s                whois Search
 e       mailto:?subject=%t&body=%s%0A%0A%09%r%0A%0A         Email link
-peek    https://peekier.com/#!%s                            Peekie
+peek   https://peekier.com/#!%s                             Peekie
